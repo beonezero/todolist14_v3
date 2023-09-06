@@ -100,5 +100,3 @@ export const getTodoTC = ()  => (dispatch: Dispatch) => {
         })
 }
 
-const hello = () => {}
-
